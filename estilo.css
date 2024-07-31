@@ -1,0 +1,29 @@
+.estilo {
+    color:white;
+    text-align:center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgba(99, 80, 180, 0.9);
+}
+
+.titulo {
+    font-size: 46px
+}
+
+.subtitulo {
+    font-size:25px
+    
+}
+
+.descrição {
+    font-size:18px
+}
+
+#legenda {
+    font-size:18px
+}
+
+#Torre {
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
